@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mars Rovers</string>
+    <string name="api_error">Problems getting Photos</string>
+    <string name="rovers">Rovers</string>
+    <string name="cameras">Cameras</string>
+    <string-array name="rovers">
+        <item>Curiosity</item>
+        <item>Opportunity</item>
+        <item>Spirit</item>
+    </string-array>
+    <string-array name="camera_names">
+        <item>Front Hazard</item>
+        <item>Rear Hazard</item>
+        <item>Navigation</item>
+        <item>Panoramic</item>
+    </string-array>
+    <string-array name="camera_values">
+        <item>FHAZ</item>
+        <item>RHAZ</item>
+        <item>NAVCAM</item>
+        <item>PANCAM</item>
+    </string-array>
+</resources>
